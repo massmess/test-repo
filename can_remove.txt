@@ -1,1 +1,2 @@
-git rm --cached file1
+git rm --cached file1 New line aded.
+Another new line added.
